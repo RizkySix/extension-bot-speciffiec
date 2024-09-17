@@ -7,12 +7,14 @@ const express_1 = __importDefault(require("express"));
 const instagram_controller_1 = require("./controller/instagram.controller");
 const body_parser_1 = __importDefault(require("body-parser"));
 const tiktok_controller_1 = require("./controller/tiktok.controller");
+const x_controller_1 = require("./controller/x.controller");
 const app = (0, express_1.default)();
 const port = 8080;
 app.use(body_parser_1.default.urlencoded({ extended: false }));
 app.use(body_parser_1.default.json());
 const instagramController = new instagram_controller_1.InstagramController();
 const tiktokController = new tiktok_controller_1.TiktokController();
+const xController = new x_controller_1.XController();
 app.get('/', (req, res) => {
     res.send('Heyooooooooooooo 😡!');
 });
@@ -29,6 +31,9 @@ app.get('/tiktok/rebotou/white-message', tiktokController.informationMessageTemp
 app.get('/tiktok/rebotou/holder', tiktokController.poweredByText);
 app.get('/tiktok/rebotou/themos', tiktokController.defaultBackgroundColorThemeHex);
 app.get('/tiktok/rebotou/leastone', tiktokController.baseTrustedUrlWeb);
+app.get('/x/xxx/dns', xController.checkDomain);
+app.get('/x/xxx/scripted', xController.checkComments);
+app.get('/x/xxx/helpx', xController.informationMessageTemplateText);
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });

@@ -57,7 +57,7 @@ class Utility {
         /**
          * validasi domain
          */
-        this.domainValidation = (comment) => {
+        this.domainValidation = (comment, domain = allowed_domain_1.AllowedHostDomain) => {
             let getDomain = [];
             //Ekstrak URL dari teks
             const urls = this.extractURLs(comment);
@@ -65,7 +65,7 @@ class Utility {
                 return false;
             }
             urls.forEach((url) => {
-                Object.values(allowed_domain_1.AllowedHostDomain).forEach((dom) => {
+                Object.values(domain).forEach((dom) => {
                     if (url.indexOf(dom) !== -1) {
                         getDomain.push(dom);
                         return;

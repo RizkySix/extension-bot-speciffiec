@@ -72,7 +72,7 @@ export class Utility {
   /**
    * validasi domain
    */
-  domainValidation = (comment: string) => {
+  domainValidation = (comment: string, domain: object = AllowedHostDomain) => {
     let getDomain: Array<string> = [];
 
     //Ekstrak URL dari teks
@@ -83,7 +83,7 @@ export class Utility {
     }
 
     urls.forEach((url) => {
-      Object.values(AllowedHostDomain).forEach((dom) => {
+      Object.values(domain).forEach((dom) => {
         if (url.indexOf(dom) !== -1) {
           getDomain.push(dom);
           return;
