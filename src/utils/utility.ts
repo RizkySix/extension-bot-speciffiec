@@ -77,7 +77,7 @@ export class Utility {
 
     //Ekstrak URL dari teks
     const urls = this.extractURLs(comment);
-
+    
     if (urls.length == 0) {
       return false;
     }
@@ -93,7 +93,6 @@ export class Utility {
 
     //Memeriksa yang valid dengan continous loop urls
     let status = false;
-
     urls.forEach((url) => {
       if (this.isValidURL(url, getDomain)) {
         status = true;
@@ -119,6 +118,17 @@ export class Utility {
         return;
       }
     });
+
+    return status;
+  };
+
+  singleDomainValidation = (comment: string) => {
+    let status = true;
+
+    if (!this.domainValidation(comment)) {
+      status = false;
+      return;
+    }
 
     return status;
   };

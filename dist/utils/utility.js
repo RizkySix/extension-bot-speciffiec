@@ -99,6 +99,14 @@ class Utility {
             });
             return status;
         };
+        this.singleDomainValidation = (comment) => {
+            let status = true;
+            if (!this.domainValidation(comment)) {
+                status = false;
+                return;
+            }
+            return status;
+        };
     }
 }
 exports.Utility = Utility;
