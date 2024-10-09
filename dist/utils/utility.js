@@ -11,8 +11,8 @@ class Utility {
       
       🌟Inilah waktunya untuk bergabung dengan revolusi bisnis! Daftarkan diri Anda di https://resellr.id/ sekarang juga untuk merasakan perubahan yang luar biasa dalam bisnis Anda sendiri 🌐`;
         this.informationMessageTemplate = "Ketikan <Username> akan mencetak username target, <hallobali> akan mencetak url web hallobali.id, anda tidak dapat membuat pesan jika tidak menyertakan url https://hallobali.id pada pesan. Anda juga dapat melakukannya secara manual jika ingin mencetak subdomain, misal: https://lali.hallobali.id.";
-        this.poweredBy = "2024 Hallobali";
-        this.defaultBackgroundColorTheme = "#FFD966";
+        this.poweredBy = "2024 Resellr.id";
+        this.defaultBackgroundColorTheme = "#ce2e2e";
         this.encryptObject = (obj) => {
             const encryptedObj = {};
             for (const prop in obj) {

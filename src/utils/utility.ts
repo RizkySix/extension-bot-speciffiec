@@ -11,9 +11,9 @@ export class Utility {
 
     informationMessageTemplate = "Ketikan <Username> akan mencetak username target, <hallobali> akan mencetak url web hallobali.id, anda tidak dapat membuat pesan jika tidak menyertakan url https://hallobali.id pada pesan. Anda juga dapat melakukannya secara manual jika ingin mencetak subdomain, misal: https://lali.hallobali.id."
 
-    poweredBy = "2024 Hallobali"
+    poweredBy = "2024 Resellr.id"
 
-    defaultBackgroundColorTheme = "#FFD966"
+    defaultBackgroundColorTheme = "#ce2e2e"
 
   encryptObject = (
     obj: AllowedHostDomainParameter
