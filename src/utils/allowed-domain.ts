@@ -7,6 +7,7 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<lakujual>": "https://lakujual.id/",
   "<lakustore>": "https://lakustore.id/",
   "<bebaskirim>": "https://bebaskirim.com/",
+  "<resellr>": "https://resellr.id/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -16,6 +17,7 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<lakujual>": "lakujual.id",
   "<lakustore>": "lakustore.id",
   "<bebaskirim>": "bebaskirim.com",
+  "<resellr>": "resellr.id",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -25,6 +27,7 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<lakujual>": "https://lakujual.id/",
   "<lakustore>": "https://lakustore.id/",
   "<bebaskirim>": "https://bebaskirim.com/",
+  "<resellr>": "https://resellr.id/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -34,6 +37,7 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<lakujual>": "lakujual.id",
   "<lakustore>": "lakustore.id",
   "<bebaskirim>": "bebaskirim.com",
+  "<resellr>": "resellr.id",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"

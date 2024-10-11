@@ -8,6 +8,7 @@ exports.AllowedUrlDomain = {
     "<lakujual>": "https://lakujual.id/",
     "<lakustore>": "https://lakustore.id/",
     "<bebaskirim>": "https://bebaskirim.com/",
+    "<resellr>": "https://resellr.id/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -16,6 +17,7 @@ exports.AllowedHostDomain = {
     "<lakujual>": "lakujual.id",
     "<lakustore>": "lakustore.id",
     "<bebaskirim>": "bebaskirim.com",
+    "<resellr>": "resellr.id",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -24,6 +26,7 @@ exports.AllowedUrlDomainComplete = {
     "<lakujual>": "https://lakujual.id/",
     "<lakustore>": "https://lakustore.id/",
     "<bebaskirim>": "https://bebaskirim.com/",
+    "<resellr>": "https://resellr.id/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -32,6 +35,7 @@ exports.AllowedHostDomainComplete = {
     "<lakujual>": "lakujual.id",
     "<lakustore>": "lakustore.id",
     "<bebaskirim>": "bebaskirim.com",
+    "<resellr>": "resellr.id",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
