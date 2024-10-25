@@ -12,7 +12,7 @@ exports.AllowedUrlDomain = {
     "<resellr>": "https://resellr.id/",
     "<sarungindonesia-com>": "https://sarungindonesia.com/",
     "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
-    "<putusdijalan>": "https://linktr.ee/putusdijalan",
+    "<putusdijalan>": "https://linktr.ee/putusdijalan/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -38,7 +38,7 @@ exports.AllowedUrlDomainComplete = {
     "<resellr>": "https://resellr.id/",
     "<sarungindonesia-com>": "https://sarungindonesia.com/",
     "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
-    "<putusdijalan>": "https://linktr.ee/putusdijalan",
+    "<putusdijalan>": "https://linktr.ee/putusdijalan/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",

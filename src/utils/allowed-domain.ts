@@ -11,7 +11,7 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<resellr>": "https://resellr.id/",
   "<sarungindonesia-com>": "https://sarungindonesia.com/",
   "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
-  "<putusdijalan>": "https://linktr.ee/putusdijalan",
+  "<putusdijalan>": "https://linktr.ee/putusdijalan/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -39,7 +39,7 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<resellr>": "https://resellr.id/",
   "<sarungindonesia-com>": "https://sarungindonesia.com/",
   "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
-  "<putusdijalan>": "https://linktr.ee/putusdijalan",
+  "<putusdijalan>": "https://linktr.ee/putusdijalan/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
