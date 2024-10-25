@@ -11,6 +11,7 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<resellr>": "https://resellr.id/",
   "<sarungindonesia-com>": "https://sarungindonesia.com/",
   "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
+  "<putusdijalan>": "https://linktr.ee/putusdijalan",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -24,6 +25,7 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<resellr>": "resellr.id",
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
+  "<putusdijalan>": "linktr.ee/putusdijalan",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -37,6 +39,7 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<resellr>": "https://resellr.id/",
   "<sarungindonesia-com>": "https://sarungindonesia.com/",
   "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
+  "<putusdijalan>": "https://linktr.ee/putusdijalan",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -50,6 +53,7 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<resellr>": "resellr.id",
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
+  "<putusdijalan>": "linktr.ee/putusdijalan",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
