@@ -25,7 +25,7 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<resellr>": "resellr.id",
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
-  "<putusdijalan>": "linktr.ee/putusdijalan",
+  "<putusdijalan>": "linktr.ee",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -53,7 +53,7 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<resellr>": "resellr.id",
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
-  "<putusdijalan>": "linktr.ee/putusdijalan",
+  "<putusdijalan>": "linktr.ee",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
