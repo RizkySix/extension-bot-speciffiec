@@ -39,17 +39,6 @@ exports.AllowedHostDomain = {
     "<sarungindonesia-com>": "sarungindonesia.com",
     "<sarungindonesia-co-id>": "sarungindonesia.co.id",
     "<putusdijalan>": "linktr.ee",
-    "<terapiholistinawasena>": "https://nawasenacare.com/",
-    "<sikopin>": "https://sikopin.com",
-    "<manhattancool>": "https://manhattancool.id/",
-    "<langfit>": "https://langfit.id/",
-    "<aftergraph>": "https://aftergraphs.com/",
-    "<nenavin>": "https://nenavin.com/",
-    "<salimamemorialpark>": "https://propertilogi.com/",
-    "<sentramukena>": "https://sentramukena.id/",
-    "<rumahakrilik>": "https://rumahakrilik.my.id/",
-    "<penerbituwais>": "https://penerbit.uwais.net/",
-    "<ote>": "https://servicesofadijogja.com/",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -64,17 +53,6 @@ exports.AllowedUrlDomainComplete = {
     "<sarungindonesia-com>": "https://sarungindonesia.com/",
     "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
     "<putusdijalan>": "https://linktr.ee/putusdijalan/",
-    "<terapiholistinawasena>": "https://nawasenacare.com/",
-    "<sikopin>": "https://sikopin.com",
-    "<manhattancool>": "https://manhattancool.id/",
-    "<langfit>": "https://langfit.id/",
-    "<aftergraph>": "https://aftergraphs.com/",
-    "<nenavin>": "https://nenavin.com/",
-    "<salimamemorialpark>": "https://propertilogi.com/",
-    "<sentramukena>": "https://sentramukena.id/",
-    "<rumahakrilik>": "https://rumahakrilik.my.id/",
-    "<penerbituwais>": "https://penerbit.uwais.net/",
-    "<ote>": "https://servicesofadijogja.com/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -89,17 +67,6 @@ exports.AllowedHostDomainComplete = {
     "<sarungindonesia-com>": "sarungindonesia.com",
     "<sarungindonesia-co-id>": "sarungindonesia.co.id",
     "<putusdijalan>": "linktr.ee",
-    "<terapiholistinawasena>": "https://nawasenacare.com/",
-    "<sikopin>": "https://sikopin.com",
-    "<manhattancool>": "https://manhattancool.id/",
-    "<langfit>": "https://langfit.id/",
-    "<aftergraph>": "https://aftergraphs.com/",
-    "<nenavin>": "https://nenavin.com/",
-    "<salimamemorialpark>": "https://propertilogi.com/",
-    "<sentramukena>": "https://sentramukena.id/",
-    "<rumahakrilik>": "https://rumahakrilik.my.id/",
-    "<penerbituwais>": "https://penerbit.uwais.net/",
-    "<ote>": "https://servicesofadijogja.com/",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
