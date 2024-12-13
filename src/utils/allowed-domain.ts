@@ -39,7 +39,17 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
   "<putusdijalan>": "linktr.ee",
-  
+  "<terapiholistinawasena>": "https://nawasenacare.com/",
+  "<sikopin>": "https://sikopin.com",
+  "<manhattancool>": "https://manhattancool.id/",
+  "<langfit>": "https://langfit.id/",
+  "<aftergraph>": "https://aftergraphs.com/",
+  "<nenavin>": "https://nenavin.com/",
+  "<salimamemorialpark>": "https://propertilogi.com/",
+  "<sentramukena>": "https://sentramukena.id/",
+  "<rumahakrilik>": "https://rumahakrilik.my.id/",
+  "<penerbituwais>": "https://penerbit.uwais.net/",
+  "<ote>": "https://servicesofadijogja.com/",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -55,6 +65,17 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<sarungindonesia-com>": "https://sarungindonesia.com/",
   "<sarungindonesia-co-id>": "https://sarungindonesia.co.id/",
   "<putusdijalan>": "https://linktr.ee/putusdijalan/",
+  "<terapiholistinawasena>": "https://nawasenacare.com/",
+  "<sikopin>": "https://sikopin.com",
+  "<manhattancool>": "https://manhattancool.id/",
+  "<langfit>": "https://langfit.id/",
+  "<aftergraph>": "https://aftergraphs.com/",
+  "<nenavin>": "https://nenavin.com/",
+  "<salimamemorialpark>": "https://propertilogi.com/",
+  "<sentramukena>": "https://sentramukena.id/",
+  "<rumahakrilik>": "https://rumahakrilik.my.id/",
+  "<penerbituwais>": "https://penerbit.uwais.net/",
+  "<ote>": "https://servicesofadijogja.com/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -70,6 +91,17 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<sarungindonesia-com>": "sarungindonesia.com",
   "<sarungindonesia-co-id>": "sarungindonesia.co.id",
   "<putusdijalan>": "linktr.ee",
+  "<terapiholistinawasena>": "https://nawasenacare.com/",
+  "<sikopin>": "https://sikopin.com",
+  "<manhattancool>": "https://manhattancool.id/",
+  "<langfit>": "https://langfit.id/",
+  "<aftergraph>": "https://aftergraphs.com/",
+  "<nenavin>": "https://nenavin.com/",
+  "<salimamemorialpark>": "https://propertilogi.com/",
+  "<sentramukena>": "https://sentramukena.id/",
+  "<rumahakrilik>": "https://rumahakrilik.my.id/",
+  "<penerbituwais>": "https://penerbit.uwais.net/",
+  "<ote>": "https://servicesofadijogja.com/",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
