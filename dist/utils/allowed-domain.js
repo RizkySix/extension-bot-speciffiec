@@ -25,6 +25,11 @@ exports.AllowedUrlDomain = {
     "<rumahakrilik>": "https://rumahakrilik.my.id/",
     "<penerbituwais>": "https://penerbit.uwais.net/",
     "<ote>": "https://servicesofadijogja.com/",
+    "<topkursus>": "https://topkursus.com/",
+    "<flubaanaba>": "https://linktr.ee/Fluba.id",
+    "<gizidat>": "https://mygizidat.com/",
+    "<karetjembatan>": "https://karetkonstruksi.com/",
+    "<payaman>": "https://payamandigital.com/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -50,6 +55,11 @@ exports.AllowedHostDomain = {
     "<rumahakrilik>": "https://rumahakrilik.my.id/",
     "<penerbituwais>": "https://penerbit.uwais.net/",
     "<ote>": "https://servicesofadijogja.com/",
+    "<topkursus>": "https://topkursus.com/",
+    "<flubaanaba>": "https://linktr.ee/Fluba.id",
+    "<gizidat>": "https://mygizidat.com/",
+    "<karetjembatan>": "https://karetkonstruksi.com/",
+    "<payaman>": "https://payamandigital.com/",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -75,6 +85,11 @@ exports.AllowedUrlDomainComplete = {
     "<rumahakrilik>": "https://rumahakrilik.my.id/",
     "<penerbituwais>": "https://penerbit.uwais.net/",
     "<ote>": "https://servicesofadijogja.com/",
+    "<topkursus>": "https://topkursus.com/",
+    "<flubaanaba>": "https://linktr.ee/Fluba.id",
+    "<gizidat>": "https://mygizidat.com/",
+    "<karetjembatan>": "https://karetkonstruksi.com/",
+    "<payaman>": "https://payamandigital.com/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -100,6 +115,11 @@ exports.AllowedHostDomainComplete = {
     "<rumahakrilik>": "https://rumahakrilik.my.id/",
     "<penerbituwais>": "https://penerbit.uwais.net/",
     "<ote>": "https://servicesofadijogja.com/",
+    "<topkursus>": "https://topkursus.com/",
+    "<flubaanaba>": "https://linktr.ee/Fluba.id",
+    "<gizidat>": "https://mygizidat.com/",
+    "<karetjembatan>": "https://karetkonstruksi.com/",
+    "<payaman>": "https://payamandigital.com/",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
