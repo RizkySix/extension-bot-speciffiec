@@ -24,6 +24,11 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<rumahakrilik>": "https://rumahakrilik.my.id/",
   "<penerbituwais>": "https://penerbit.uwais.net/",
   "<ote>": "https://servicesofadijogja.com/",
+  "<topkursus>": "https://topkursus.com/",
+  "<flubaanaba>": "https://linktr.ee/Fluba.id",
+  "<gizidat>": "https://mygizidat.com/",
+  "<karetjembatan>": "https://karetkonstruksi.com/",
+  "<payaman>": "https://payamandigital.com/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -50,6 +55,11 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<rumahakrilik>": "https://rumahakrilik.my.id/",
   "<penerbituwais>": "https://penerbit.uwais.net/",
   "<ote>": "https://servicesofadijogja.com/",
+  "<topkursus>": "https://topkursus.com/",
+  "<flubaanaba>": "https://linktr.ee/Fluba.id",
+  "<gizidat>": "https://mygizidat.com/",
+  "<karetjembatan>": "https://karetkonstruksi.com/",
+  "<payaman>": "https://payamandigital.com/",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -76,6 +86,11 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<rumahakrilik>": "https://rumahakrilik.my.id/",
   "<penerbituwais>": "https://penerbit.uwais.net/",
   "<ote>": "https://servicesofadijogja.com/",
+  "<topkursus>": "https://topkursus.com/",
+  "<flubaanaba>": "https://linktr.ee/Fluba.id",
+  "<gizidat>": "https://mygizidat.com/",
+  "<karetjembatan>": "https://karetkonstruksi.com/",
+  "<payaman>": "https://payamandigital.com/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -102,6 +117,11 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<rumahakrilik>": "https://rumahakrilik.my.id/",
   "<penerbituwais>": "https://penerbit.uwais.net/",
   "<ote>": "https://servicesofadijogja.com/",
+  "<topkursus>": "https://topkursus.com/",
+  "<flubaanaba>": "https://linktr.ee/Fluba.id",
+  "<gizidat>": "https://mygizidat.com/",
+  "<karetjembatan>": "https://karetkonstruksi.com/",
+  "<payaman>": "https://payamandigital.com/",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
