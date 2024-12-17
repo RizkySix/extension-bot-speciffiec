@@ -30,6 +30,8 @@ exports.AllowedUrlDomain = {
     "<gizidat>": "https://mygizidat.com/",
     "<karetjembatan>": "https://karetkonstruksi.com/",
     "<payaman>": "https://payamandigital.com/",
+    "<susuurra>": "https://linktr.ee/UrraOfficial",
+    "<enziko>": "https://enziko.id/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -60,6 +62,8 @@ exports.AllowedHostDomain = {
     "<gizidat>": "mygizidat.com",
     "<karetjembatan>": "karetkonstruksi.com",
     "<payaman>": "payamandigital.com",
+    "<susuurra>": "linktr.ee/UrraOfficial",
+    "<enziko>": "enziko.id",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -90,6 +94,8 @@ exports.AllowedUrlDomainComplete = {
     "<gizidat>": "https://mygizidat.com/",
     "<karetjembatan>": "https://karetkonstruksi.com/",
     "<payaman>": "https://payamandigital.com/",
+    "<susuurra>": "https://linktr.ee/UrraOfficial",
+    "<enziko>": "https://enziko.id/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -120,6 +126,8 @@ exports.AllowedHostDomainComplete = {
     "<gizidat>": "mygizidat.com",
     "<karetjembatan>": "karetkonstruksi.com",
     "<payaman>": "payamandigital.com",
+    "<susuurra>": "linktr.ee/UrraOfficial",
+    "<enziko>": "enziko.id",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
