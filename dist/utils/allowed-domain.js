@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.AtLeastThisUrlAppear = exports.AllowedHostDomainComplete = exports.AllowedUrlDomainComplete = exports.AllowedHostDomain = exports.AllowedUrlDomain = void 0;
 exports.AllowedUrlDomain = {
     "<hallobali>": "https://hallobali.id/",
-    // "<daruratmilyader>": "https://daruratmilyader.com/",
+    "<clicktocash>": "https://daruratmilyader.com/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<lakujual>": "https://lakujual.id/",
@@ -33,7 +33,7 @@ exports.AllowedUrlDomain = {
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
-    // "<daruratmilyader>": "daruratmilyader.com",
+    "<clicktocash>": "daruratmilyader.com",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<lakujual>": "lakujual.id",
@@ -63,7 +63,7 @@ exports.AllowedHostDomain = {
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
-    //"<daruratmilyader>": "https://daruratmilyader.com/",
+    "<clicktocash>": "https://daruratmilyader.com/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<lakujual>": "https://lakujual.id/",
@@ -93,7 +93,7 @@ exports.AllowedUrlDomainComplete = {
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
-    //"<daruratmilyader>": "daruratmilyader.com",
+    "<clicktocash>": "daruratmilyader.com",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<lakujual>": "lakujual.id",

@@ -2,7 +2,7 @@ import { AllowedHostDomainParameter } from "./paramater";
 
 export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<hallobali>": "https://hallobali.id/",
- // "<daruratmilyader>": "https://daruratmilyader.com/",
+  "<clicktocash>": "https://daruratmilyader.com/",
   "<ipaymu>": "https://ipaymu.com/",
   "<marketbiz>": "https://marketbiz.net/",
   "<lakujual>": "https://lakujual.id/",
@@ -33,7 +33,7 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<hallobali>": "hallobali.id",
- // "<daruratmilyader>": "daruratmilyader.com",
+  "<clicktocash>": "daruratmilyader.com",
   "<ipaymu>": "ipaymu.com",
   "<marketbiz>": "marketbiz.net",
   "<lakujual>": "lakujual.id",
@@ -64,7 +64,7 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<hallobali>": "https://hallobali.id/",
-  //"<daruratmilyader>": "https://daruratmilyader.com/",
+  "<clicktocash>": "https://daruratmilyader.com/",
   "<ipaymu>": "https://ipaymu.com/",
   "<marketbiz>": "https://marketbiz.net/",
   "<lakujual>": "https://lakujual.id/",
@@ -95,7 +95,7 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<hallobali>": "hallobali.id",
-  //"<daruratmilyader>": "daruratmilyader.com",
+  "<clicktocash>": "daruratmilyader.com",
   "<ipaymu>": "ipaymu.com",
   "<marketbiz>": "marketbiz.net",
   "<lakujual>": "lakujual.id",
