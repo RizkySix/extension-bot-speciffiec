@@ -29,6 +29,8 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<gizidat>": "https://mygizidat.com/",
   "<karetjembatan>": "https://karetkonstruksi.com/",
   "<payaman>": "https://payamandigital.com/",
+  "<susuurra>": "https://linktr.ee/UrraOfficial",
+  "<enziko>": "https://enziko.id/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -60,6 +62,8 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<gizidat>": "mygizidat.com",
   "<karetjembatan>": "karetkonstruksi.com",
   "<payaman>": "payamandigital.com",
+  "<susuurra>": "linktr.ee/UrraOfficial",
+  "<enziko>": "enziko.id",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -91,6 +95,8 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<gizidat>": "https://mygizidat.com/",
   "<karetjembatan>": "https://karetkonstruksi.com/",
   "<payaman>": "https://payamandigital.com/",
+  "<susuurra>": "https://linktr.ee/UrraOfficial",
+  "<enziko>": "https://enziko.id/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -122,6 +128,8 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<gizidat>": "mygizidat.com",
   "<karetjembatan>": "karetkonstruksi.com",
   "<payaman>": "payamandigital.com",
+  "<susuurra>": "linktr.ee/UrraOfficial",
+  "<enziko>": "enziko.id",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
