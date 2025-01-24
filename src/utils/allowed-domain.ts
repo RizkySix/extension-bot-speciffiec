@@ -31,6 +31,8 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<payaman>": "https://payamandigital.com/",
   "<susuurra>": "https://linktr.ee/UrraOfficial",
   "<enziko>": "https://enziko.id/",
+  "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
+  "<menupangan>": "https://menupangan.id/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -64,6 +66,8 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<payaman>": "payamandigital.com",
   "<susuurra>": "linktr.ee/UrraOfficial",
   "<enziko>": "enziko.id",
+  "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+  "<menupangan>": "menupangan.id",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -97,6 +101,8 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<payaman>": "https://payamandigital.com/",
   "<susuurra>": "https://linktr.ee/UrraOfficial",
   "<enziko>": "https://enziko.id/",
+  "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
+  "<menupangan>": "https://menupangan.id/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -130,6 +136,8 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<payaman>": "payamandigital.com",
   "<susuurra>": "linktr.ee/UrraOfficial",
   "<enziko>": "enziko.id",
+  "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+  "<menupangan>": "menupangan.id",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"

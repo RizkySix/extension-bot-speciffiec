@@ -32,6 +32,8 @@ exports.AllowedUrlDomain = {
     "<payaman>": "https://payamandigital.com/",
     "<susuurra>": "https://linktr.ee/UrraOfficial",
     "<enziko>": "https://enziko.id/",
+    "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
+    "<menupangan>": "https://menupangan.id/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -64,6 +66,8 @@ exports.AllowedHostDomain = {
     "<payaman>": "payamandigital.com",
     "<susuurra>": "linktr.ee/UrraOfficial",
     "<enziko>": "enziko.id",
+    "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+    "<menupangan>": "menupangan.id",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -96,6 +100,8 @@ exports.AllowedUrlDomainComplete = {
     "<payaman>": "https://payamandigital.com/",
     "<susuurra>": "https://linktr.ee/UrraOfficial",
     "<enziko>": "https://enziko.id/",
+    "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
+    "<menupangan>": "https://menupangan.id/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -128,6 +134,8 @@ exports.AllowedHostDomainComplete = {
     "<payaman>": "payamandigital.com",
     "<susuurra>": "linktr.ee/UrraOfficial",
     "<enziko>": "enziko.id",
+    "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+    "<menupangan>": "menupangan.id",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
