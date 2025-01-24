@@ -60,13 +60,13 @@ exports.AllowedHostDomain = {
     "<penerbituwais>": "penerbit.uwais.net",
     "<ote>": "servicesofadijogja.com",
     "<topkursus>": "topkursus.com",
-    "<flubaanaba>": "linktr.ee/Fluba.id",
+    "<flubaanaba>": "linktr.ee",
     "<gizidat>": "mygizidat.com",
     "<karetjembatan>": "karetkonstruksi.com",
     "<payaman>": "payamandigital.com",
     "<susuurra>": "linktr.ee",
     "<enziko>": "enziko.id",
-    "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+    "<duniakesehatananak>": "linktr.ee",
     "<menupangan>": "menupangan.id",
 };
 exports.AllowedUrlDomainComplete = {
@@ -128,13 +128,13 @@ exports.AllowedHostDomainComplete = {
     "<penerbituwais>": "penerbit.uwais.net",
     "<ote>": "servicesofadijogja.com",
     "<topkursus>": "topkursus.com",
-    "<flubaanaba>": "linktr.ee/Fluba.id",
+    "<flubaanaba>": "linktr.ee",
     "<gizidat>": "mygizidat.com",
     "<karetjembatan>": "karetkonstruksi.com",
     "<payaman>": "payamandigital.com",
     "<susuurra>": "linktr.ee",
     "<enziko>": "enziko.id",
-    "<duniakesehatananak>": "linktr.ee/anaksehatofficial",
+    "<duniakesehatananak>": "linktr.ee",
     "<menupangan>": "menupangan.id",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
