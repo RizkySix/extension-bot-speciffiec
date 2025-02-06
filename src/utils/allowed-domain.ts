@@ -33,6 +33,17 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<enziko>": "https://enziko.id/",
   "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
   "<menupangan>": "https://menupangan.id/",
+  "<behati>": "https://behatiskinclinic.co.id/",
+  "<drkhoirul>": "https://khoirulhadi.com/",
+  "<easylegal>": "https://easylegal.id/",
+  "<dokterpreneur>": "https://www.dokterpreneur.id",
+  "<globalantusiasentosa>": "https://www.sekolahmengemudimobil.net",
+  "<hervent>": "https://hervent.co.id/",
+  "<redboxmaximum>": "https://redboxmaximum.com/",
+  "<fitskinclinic>": "https://www.fitskinclinic.com",
+  "<arteria>": "https://propertisolo.onepareto.id/home",
+  "<maxuniform>": "https://www.maxuniform.com",
+  "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -68,6 +79,17 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<enziko>": "enziko.id",
   "<duniakesehatananak>": "linktr.ee",
   "<menupangan>": "menupangan.id",
+  "<behati>": "behatiskinclinic.co.id",
+  "<drkhoirul>": "khoirulhadi.com",
+  "<easylegal>": "easylegal.id",
+  "<dokterpreneur>": "www.dokterpreneur.id",
+  "<globalantusiasentosa>": "www.sekolahmengemudimobil.net",
+  "<hervent>": "hervent.co.id",
+  "<redboxmaximum>": "redboxmaximum.com",
+  "<fitskinclinic>": "www.fitskinclinic.com",
+  "<arteria>": "propertisolo.onepareto.id",
+  "<maxuniform>": "www.maxuniform.com",
+  "<poskumagelang>": "poksumagelang.onepareto.id",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -103,6 +125,17 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<enziko>": "https://enziko.id/",
   "<duniakesehatananak>": "https://linktr.ee/anaksehatofficial",
   "<menupangan>": "https://menupangan.id/",
+  "<behati>": "https://behatiskinclinic.co.id/",
+  "<drkhoirul>": "https://khoirulhadi.com/",
+  "<easylegal>": "https://easylegal.id/",
+  "<dokterpreneur>": "https://www.dokterpreneur.id",
+  "<globalantusiasentosa>": "https://www.sekolahmengemudimobil.net",
+  "<hervent>": "https://hervent.co.id/",
+  "<redboxmaximum>": "https://redboxmaximum.com/",
+  "<fitskinclinic>": "https://www.fitskinclinic.com",
+  "<arteria>": "https://propertisolo.onepareto.id/home",
+  "<maxuniform>": "https://www.maxuniform.com",
+  "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -138,6 +171,17 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<enziko>": "enziko.id",
   "<duniakesehatananak>": "linktr.ee",
   "<menupangan>": "menupangan.id",
+  "<behati>": "behatiskinclinic.co.id",
+  "<drkhoirul>": "khoirulhadi.com",
+  "<easylegal>": "easylegal.id",
+  "<dokterpreneur>": "www.dokterpreneur.id",
+  "<globalantusiasentosa>": "www.sekolahmengemudimobil.net",
+  "<hervent>": "hervent.co.id",
+  "<redboxmaximum>": "redboxmaximum.com",
+  "<fitskinclinic>": "www.fitskinclinic.com",
+  "<arteria>": "propertisolo.onepareto.id",
+  "<maxuniform>": "www.maxuniform.com",
+  "<poskumagelang>": "poksumagelang.onepareto.id",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
