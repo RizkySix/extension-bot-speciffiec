@@ -45,6 +45,8 @@ exports.AllowedUrlDomain = {
     "<arteria>": "https://propertisolo.onepareto.id/home",
     "<maxuniform>": "https://www.maxuniform.com",
     "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
+    "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
+    "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -90,6 +92,8 @@ exports.AllowedHostDomain = {
     "<arteria>": "propertisolo.onepareto.id",
     "<maxuniform>": "www.maxuniform.com",
     "<poskumagelang>": "poksumagelang.onepareto.id",
+    "<taekwondokisschool>": "www.tkdschool-bali.com",
+    "<taekwondokisschoolwa>": "bit.ly",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -135,6 +139,8 @@ exports.AllowedUrlDomainComplete = {
     "<arteria>": "https://propertisolo.onepareto.id/home",
     "<maxuniform>": "https://www.maxuniform.com",
     "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
+    "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
+    "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -180,6 +186,8 @@ exports.AllowedHostDomainComplete = {
     "<arteria>": "propertisolo.onepareto.id",
     "<maxuniform>": "www.maxuniform.com",
     "<poskumagelang>": "poksumagelang.onepareto.id",
+    "<taekwondokisschool>": "www.tkdschool-bali.com",
+    "<taekwondokisschoolwa>": "bit.ly",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map

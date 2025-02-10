@@ -44,6 +44,8 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<arteria>": "https://propertisolo.onepareto.id/home",
   "<maxuniform>": "https://www.maxuniform.com",
   "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
+  "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
+  "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -90,6 +92,8 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<arteria>": "propertisolo.onepareto.id",
   "<maxuniform>": "www.maxuniform.com",
   "<poskumagelang>": "poksumagelang.onepareto.id",
+  "<taekwondokisschool>": "www.tkdschool-bali.com",
+  "<taekwondokisschoolwa>": "bit.ly",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -136,6 +140,8 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<arteria>": "https://propertisolo.onepareto.id/home",
   "<maxuniform>": "https://www.maxuniform.com",
   "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
+  "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
+  "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -182,6 +188,8 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<arteria>": "propertisolo.onepareto.id",
   "<maxuniform>": "www.maxuniform.com",
   "<poskumagelang>": "poksumagelang.onepareto.id",
+  "<taekwondokisschool>": "www.tkdschool-bali.com",
+  "<taekwondokisschoolwa>": "bit.ly",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
