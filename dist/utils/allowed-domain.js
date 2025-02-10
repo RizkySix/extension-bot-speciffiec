@@ -36,7 +36,8 @@ exports.AllowedUrlDomain = {
     "<menupangan>": "https://menupangan.id/",
     "<behati>": "https://behatiskinclinic.co.id/",
     "<drkhoirul>": "https://khoirulhadi.com/",
-    "<easylegal>": "https://easylegal.id/",
+    "<easylegal>": "https://easylegal.id/diskon-legalitas-usaha",
+    "<easyoffice>": "https://easyoffice.co.id/murah-dan-lengkap/",
     "<dokterpreneur>": "https://www.dokterpreneur.id",
     "<globalantusiasentosa>": "https://www.sekolahmengemudimobil.net",
     "<hervent>": "https://hervent.co.id/",
@@ -47,6 +48,7 @@ exports.AllowedUrlDomain = {
     "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
     "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
     "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
+    "<mawarads>": "http://bit.ly/3EvKs46"
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -84,6 +86,7 @@ exports.AllowedHostDomain = {
     "<behati>": "behatiskinclinic.co.id",
     "<drkhoirul>": "khoirulhadi.com",
     "<easylegal>": "easylegal.id",
+    "<easyoffice>": "easyoffice.co.id",
     "<dokterpreneur>": "www.dokterpreneur.id",
     "<globalantusiasentosa>": "www.sekolahmengemudimobil.net",
     "<hervent>": "hervent.co.id",
@@ -94,6 +97,7 @@ exports.AllowedHostDomain = {
     "<poskumagelang>": "poksumagelang.onepareto.id",
     "<taekwondokisschool>": "www.tkdschool-bali.com",
     "<taekwondokisschoolwa>": "bit.ly",
+    "<mawarads>": "bit.ly"
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -130,7 +134,8 @@ exports.AllowedUrlDomainComplete = {
     "<menupangan>": "https://menupangan.id/",
     "<behati>": "https://behatiskinclinic.co.id/",
     "<drkhoirul>": "https://khoirulhadi.com/",
-    "<easylegal>": "https://easylegal.id/",
+    "<easylegal>": "https://easylegal.id/diskon-legalitas-usaha",
+    "<easyoffice>": "https://easyoffice.co.id/murah-dan-lengkap/",
     "<dokterpreneur>": "https://www.dokterpreneur.id",
     "<globalantusiasentosa>": "https://www.sekolahmengemudimobil.net",
     "<hervent>": "https://hervent.co.id/",
@@ -141,6 +146,7 @@ exports.AllowedUrlDomainComplete = {
     "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
     "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
     "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
+    "<mawarads>": "http://bit.ly/3EvKs46"
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -178,6 +184,7 @@ exports.AllowedHostDomainComplete = {
     "<behati>": "behatiskinclinic.co.id",
     "<drkhoirul>": "khoirulhadi.com",
     "<easylegal>": "easylegal.id",
+    "<easyoffice>": "easyoffice.co.id",
     "<dokterpreneur>": "www.dokterpreneur.id",
     "<globalantusiasentosa>": "www.sekolahmengemudimobil.net",
     "<hervent>": "hervent.co.id",
@@ -188,6 +195,7 @@ exports.AllowedHostDomainComplete = {
     "<poskumagelang>": "poksumagelang.onepareto.id",
     "<taekwondokisschool>": "www.tkdschool-bali.com",
     "<taekwondokisschoolwa>": "bit.ly",
+    "<mawarads>": "bit.ly"
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
