@@ -2,10 +2,11 @@ import { AllowedHostDomainParameter } from "./paramater";
 
 export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<hallobali>": "https://hallobali.id/",
-  "<clicktocash>": "https://daruratmilyader.com/",
+  "<clicktocash>": "https://marketbiz.net/bootcamp/",
   "<ipaymu>": "https://ipaymu.com/",
   "<marketbiz>": "https://marketbiz.net/",
   "<balicash>": "https://balicash.money/",
+  "<qwik.today>": "https://bit.ly/4beEeBZ",
   "<lakujual>": "https://lakujual.id/",
   "<lakustore>": "https://lakustore.id/",
   "<bebaskirim>": "https://bebaskirim.com/",
@@ -53,10 +54,11 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<hallobali>": "hallobali.id",
-  "<clicktocash>": "daruratmilyader.com",
+  "<clicktocash>": "marketbiz.net",
   "<ipaymu>": "ipaymu.com",
   "<marketbiz>": "marketbiz.net",
   "<balicash>": "balicash.money",
+  "<qwik.today>": "bit.ly",
   "<lakujual>": "lakujual.id",
   "<lakustore>": "lakustore.id",
   "<bebaskirim>": "bebaskirim.com",
@@ -104,10 +106,11 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<hallobali>": "https://hallobali.id/",
-  "<clicktocash>": "https://daruratmilyader.com/",
+  "<clicktocash>": "https://marketbiz.net/bootcamp/",
   "<ipaymu>": "https://ipaymu.com/",
   "<marketbiz>": "https://marketbiz.net/",
   "<balicash>": "https://balicash.money/",
+  "<qwik.today>": "https://bit.ly/4beEeBZ",
   "<lakujual>": "https://lakujual.id/",
   "<lakustore>": "https://lakustore.id/",
   "<bebaskirim>": "https://bebaskirim.com/",
@@ -155,10 +158,11 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<hallobali>": "hallobali.id",
-  "<clicktocash>": "daruratmilyader.com",
+  "<clicktocash>": "marketbiz.net",
   "<ipaymu>": "ipaymu.com",
   "<marketbiz>": "marketbiz.net",
   "<balicash>": "balicash.money",
+  "<qwik.today>": "bit.ly",
   "<lakujual>": "lakujual.id",
   "<lakustore>": "lakustore.id",
   "<bebaskirim>": "bebaskirim.com",

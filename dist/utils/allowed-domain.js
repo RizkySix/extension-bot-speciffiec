@@ -3,10 +3,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.AtLeastThisUrlAppear = exports.AllowedHostDomainComplete = exports.AllowedUrlDomainComplete = exports.AllowedHostDomain = exports.AllowedUrlDomain = void 0;
 exports.AllowedUrlDomain = {
     "<hallobali>": "https://hallobali.id/",
-    "<clicktocash>": "https://daruratmilyader.com/",
+    "<clicktocash>": "https://marketbiz.net/bootcamp/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<balicash>": "https://balicash.money/",
+    "<qwik.today>": "https://bit.ly/4beEeBZ",
     "<lakujual>": "https://lakujual.id/",
     "<lakustore>": "https://lakustore.id/",
     "<bebaskirim>": "https://bebaskirim.com/",
@@ -53,10 +54,11 @@ exports.AllowedUrlDomain = {
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
-    "<clicktocash>": "daruratmilyader.com",
+    "<clicktocash>": "marketbiz.net",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<balicash>": "balicash.money",
+    "<qwik.today>": "bit.ly",
     "<lakujual>": "lakujual.id",
     "<lakustore>": "lakustore.id",
     "<bebaskirim>": "bebaskirim.com",
@@ -103,10 +105,11 @@ exports.AllowedHostDomain = {
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
-    "<clicktocash>": "https://daruratmilyader.com/",
+    "<clicktocash>": "https://marketbiz.net/bootcamp/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<balicash>": "https://balicash.money/",
+    "<qwik.today>": "https://bit.ly/4beEeBZ",
     "<lakujual>": "https://lakujual.id/",
     "<lakustore>": "https://lakustore.id/",
     "<bebaskirim>": "https://bebaskirim.com/",
@@ -153,10 +156,11 @@ exports.AllowedUrlDomainComplete = {
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
-    "<clicktocash>": "daruratmilyader.com",
+    "<clicktocash>": "marketbiz.net",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<balicash>": "balicash.money",
+    "<qwik.today>": "bit.ly",
     "<lakujual>": "lakujual.id",
     "<lakustore>": "lakustore.id",
     "<bebaskirim>": "bebaskirim.com",
