@@ -4,6 +4,7 @@ exports.AtLeastThisUrlAppear = exports.AllowedHostDomainComplete = exports.Allow
 exports.AllowedUrlDomain = {
     "<hallobali>": "https://hallobali.id/",
     "<clicktocash>": "https://marketbiz.net/bootcamp/",
+    "<onepareto>": "https://onepareto.id/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<balicash>": "https://balicash.money/",
@@ -55,6 +56,7 @@ exports.AllowedUrlDomain = {
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
     "<clicktocash>": "marketbiz.net",
+    "<onepareto>": "onepareto.id",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<balicash>": "balicash.money",
@@ -106,6 +108,7 @@ exports.AllowedHostDomain = {
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
     "<clicktocash>": "https://marketbiz.net/bootcamp/",
+    "<onepareto>": "https://onepareto.id/",
     "<ipaymu>": "https://ipaymu.com/",
     "<marketbiz>": "https://marketbiz.net/",
     "<balicash>": "https://balicash.money/",
@@ -157,6 +160,7 @@ exports.AllowedUrlDomainComplete = {
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
     "<clicktocash>": "marketbiz.net",
+    "<onepareto>": "onepareto.id",
     "<ipaymu>": "ipaymu.com",
     "<marketbiz>": "marketbiz.net",
     "<balicash>": "balicash.money",
