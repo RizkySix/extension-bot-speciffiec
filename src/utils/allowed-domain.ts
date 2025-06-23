@@ -50,7 +50,9 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
   "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
   "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
-  "<mawarads>": "http://bit.ly/3EvKs46"
+  "<mawarads>": "http://bit.ly/3EvKs46",
+  "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
+  "<iwgfiberglass>": "https://boxfiberglass.co.id/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -103,7 +105,9 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<poskumagelang>": "poksumagelang.onepareto.id",
   "<taekwondokisschool>": "www.tkdschool-bali.com",
   "<taekwondokisschoolwa>": "bit.ly",
-  "<mawarads>": "bit.ly"
+  "<mawarads>": "bit.ly",
+  "<indahtasobrok>": "linktr.ee",
+  "<iwgfiberglass>": "boxfiberglass.co.id"
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -156,7 +160,9 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<poskumagelang>": "https://poksumagelang.onepareto.id/home",
   "<taekwondokisschool>": "https://www.tkdschool-bali.com/",
   "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
-  "<mawarads>": "http://bit.ly/3EvKs46"
+  "<mawarads>": "http://bit.ly/3EvKs46",
+  "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
+  "<iwgfiberglass>": "https://boxfiberglass.co.id/"
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -209,7 +215,9 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<poskumagelang>": "poksumagelang.onepareto.id",
   "<taekwondokisschool>": "www.tkdschool-bali.com",
   "<taekwondokisschoolwa>": "bit.ly",
-  "<mawarads>": "bit.ly"
+  "<mawarads>": "bit.ly",
+  "<indahtasobrok>": "linktr.ee",
+  "<iwgfiberglass>": "boxfiberglass.co.id"
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
