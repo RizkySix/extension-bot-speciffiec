@@ -106,7 +106,7 @@ exports.AllowedHostDomain = {
     "<taekwondokisschool>": "www.tkdschool-bali.com",
     "<taekwondokisschoolwa>": "bit.ly",
     "<mawarads>": "bit.ly",
-    "<indahtasobrok>": "linktr.ee/indahtasobrok",
+    "<indahtasobrok>": "linktr.ee",
     "<iwgfiberglass>": "boxfiberglass.co.id"
 };
 exports.AllowedUrlDomainComplete = {
@@ -214,7 +214,7 @@ exports.AllowedHostDomainComplete = {
     "<taekwondokisschool>": "www.tkdschool-bali.com",
     "<taekwondokisschoolwa>": "bit.ly",
     "<mawarads>": "bit.ly",
-    "<indahtasobrok>": "linktr.ee/indahtasobrok",
+    "<indahtasobrok>": "linktr.ee",
     "<iwgfiberglass>": "boxfiberglass.co.id"
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
