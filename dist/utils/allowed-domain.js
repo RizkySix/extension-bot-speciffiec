@@ -50,7 +50,8 @@ exports.AllowedUrlDomain = {
     "<mawarads>": "http://bit.ly/3EvKs46",
     "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
     "<iwgfiberglass>": "https://boxfiberglass.co.id/",
-    "<tuadi.com>": "https://tuadiwijaya.com/"
+    "<tuadiwijaya.com>": "https://tuadiwijaya.com/",
+    "<mitracash.id>": "https://mitracash.id/",
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -101,7 +102,8 @@ exports.AllowedHostDomain = {
     "<mawarads>": "bit.ly",
     "<indahtasobrok>": "linktr.ee",
     "<iwgfiberglass>": "boxfiberglass.co.id",
-    "<tuadi.com>": "tuadiwijaya.com"
+    "<tuadiwijaya.com>": "tuadiwijaya.com",
+    "<mitracash.id>": "mitracash.id",
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -152,7 +154,8 @@ exports.AllowedUrlDomainComplete = {
     "<mawarads>": "http://bit.ly/3EvKs46",
     "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
     "<iwgfiberglass>": "https://boxfiberglass.co.id/",
-    "<tuadi.com>": "https://tuadiwijaya.com/"
+    "<tuadiwijaya.com>": "https://tuadiwijaya.com/",
+    "<mitracash.id>": "https://mitracash.id/",
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -203,7 +206,8 @@ exports.AllowedHostDomainComplete = {
     "<mawarads>": "bit.ly",
     "<indahtasobrok>": "linktr.ee",
     "<iwgfiberglass>": "boxfiberglass.co.id",
-    "<tuadi.com>": "tuadiwijaya.com"
+    "<tuadiwijaya.com>": "tuadiwijaya.com",
+    "<mitracash.id>": "mitracash.id",
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map

@@ -49,7 +49,8 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<mawarads>": "http://bit.ly/3EvKs46",
   "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
   "<iwgfiberglass>": "https://boxfiberglass.co.id/",
-  "<tuadi.com>": "https://tuadiwijaya.com/",
+  "<tuadiwijaya.com>": "https://tuadiwijaya.com/",
+  "<mitracash.id>": "https://mitracash.id/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -101,7 +102,8 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<mawarads>": "bit.ly",
   "<indahtasobrok>": "linktr.ee",
   "<iwgfiberglass>": "boxfiberglass.co.id",
-  "<tuadi.com>": "tuadiwijaya.com",
+  "<tuadiwijaya.com>": "tuadiwijaya.com",
+  "<mitracash.id>": "mitracash.id"
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -153,7 +155,8 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<mawarads>": "http://bit.ly/3EvKs46",
   "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
   "<iwgfiberglass>": "https://boxfiberglass.co.id/",
-  "<tuadi.com>": "https://tuadiwijaya.com/",
+  "<tuadiwijaya.com>": "https://tuadiwijaya.com/",
+  "<mitracash.id>": "https://mitracash.id/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -205,7 +208,8 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<mawarads>": "bit.ly",
   "<indahtasobrok>": "linktr.ee",
   "<iwgfiberglass>": "boxfiberglass.co.id",
-  "<tuadi.com>": "tuadiwijaya.com",
+  "<tuadiwijaya.com>": "tuadiwijaya.com",
+  "<mitracash.id>": "mitracash.id"
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"
