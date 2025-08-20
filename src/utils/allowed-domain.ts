@@ -49,6 +49,7 @@ export const AllowedUrlDomain: AllowedHostDomainParameter = {
   "<mawarads>": "http://bit.ly/3EvKs46",
   "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
   "<iwgfiberglass>": "https://boxfiberglass.co.id/",
+  "<tuadi.com>": "https://tuadiwijaya.com/",
 };
 
 export const AllowedHostDomain: AllowedHostDomainParameter = {
@@ -99,7 +100,8 @@ export const AllowedHostDomain: AllowedHostDomainParameter = {
   "<taekwondokisschoolwa>": "bit.ly",
   "<mawarads>": "bit.ly",
   "<indahtasobrok>": "linktr.ee",
-  "<iwgfiberglass>": "boxfiberglass.co.id"
+  "<iwgfiberglass>": "boxfiberglass.co.id",
+  "<tuadi.com>": "tuadiwijaya.com",
 };
 
 export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
@@ -150,7 +152,8 @@ export const AllowedUrlDomainComplete: AllowedHostDomainParameter = {
   "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
   "<mawarads>": "http://bit.ly/3EvKs46",
   "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
-  "<iwgfiberglass>": "https://boxfiberglass.co.id/"
+  "<iwgfiberglass>": "https://boxfiberglass.co.id/",
+  "<tuadi.com>": "https://tuadiwijaya.com/",
 };
 
 export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
@@ -201,7 +204,8 @@ export const AllowedHostDomainComplete: AllowedHostDomainParameter = {
   "<taekwondokisschoolwa>": "bit.ly",
   "<mawarads>": "bit.ly",
   "<indahtasobrok>": "linktr.ee",
-  "<iwgfiberglass>": "boxfiberglass.co.id"
+  "<iwgfiberglass>": "boxfiberglass.co.id",
+  "<tuadi.com>": "tuadiwijaya.com",
 };
 
 export const AtLeastThisUrlAppear = "https://hallobali.id/"

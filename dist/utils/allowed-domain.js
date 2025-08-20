@@ -49,7 +49,8 @@ exports.AllowedUrlDomain = {
     "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
     "<mawarads>": "http://bit.ly/3EvKs46",
     "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
-    "<iwgfiberglass>": "https://boxfiberglass.co.id/"
+    "<iwgfiberglass>": "https://boxfiberglass.co.id/",
+    "<tuadi.com>": "https://tuadiwijaya.com/"
 };
 exports.AllowedHostDomain = {
     "<hallobali>": "hallobali.id",
@@ -99,7 +100,8 @@ exports.AllowedHostDomain = {
     "<taekwondokisschoolwa>": "bit.ly",
     "<mawarads>": "bit.ly",
     "<indahtasobrok>": "linktr.ee",
-    "<iwgfiberglass>": "boxfiberglass.co.id"
+    "<iwgfiberglass>": "boxfiberglass.co.id",
+    "<tuadi.com>": "tuadiwijaya.com"
 };
 exports.AllowedUrlDomainComplete = {
     "<hallobali>": "https://hallobali.id/",
@@ -149,7 +151,8 @@ exports.AllowedUrlDomainComplete = {
     "<taekwondokisschoolwa>": "http://bit.ly/tanya-taekwondo",
     "<mawarads>": "http://bit.ly/3EvKs46",
     "<indahtasobrok>": "https://linktr.ee/indahtasobrok",
-    "<iwgfiberglass>": "https://boxfiberglass.co.id/"
+    "<iwgfiberglass>": "https://boxfiberglass.co.id/",
+    "<tuadi.com>": "https://tuadiwijaya.com/"
 };
 exports.AllowedHostDomainComplete = {
     "<hallobali>": "hallobali.id",
@@ -199,7 +202,8 @@ exports.AllowedHostDomainComplete = {
     "<taekwondokisschoolwa>": "bit.ly",
     "<mawarads>": "bit.ly",
     "<indahtasobrok>": "linktr.ee",
-    "<iwgfiberglass>": "boxfiberglass.co.id"
+    "<iwgfiberglass>": "boxfiberglass.co.id",
+    "<tuadi.com>": "tuadiwijaya.com"
 };
 exports.AtLeastThisUrlAppear = "https://hallobali.id/";
 //# sourceMappingURL=allowed-domain.js.map
