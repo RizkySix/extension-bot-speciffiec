@@ -73,35 +73,29 @@ export class Utility {
    * validasi domain
    */
   domainValidation = (comment: string, domain: object = AllowedHostDomain) => {
-    let getDomain: Array<string> = [];
-
-    //Ekstrak URL dari teks
+    // Ekstrak URL dari teks
     const urls = this.extractURLs(comment);
-    
     if (urls.length == 0) {
       return false;
     }
 
+    // Cek apakah ada minimal satu URL yang mengandung allowed domain
+    let foundAllowed = false;
     urls.forEach((url) => {
       Object.values(domain).forEach((dom) => {
         if (url.indexOf(dom) !== -1) {
-          getDomain.push(dom);
-          return;
+          foundAllowed = true;
         }
       });
     });
 
-    //Memeriksa yang valid dengan continous loop urls
-    let status = false;
-    urls.forEach((url) => {
-      if (this.isValidURL(url, getDomain)) {
-        status = true;
-      } else {
-        status = false;
-      }
-    });
+    // Jika tidak ada allowed domain, return false
+    if (!foundAllowed) {
+      return false;
+    }
 
-    return status;
+    // Jika ada minimal satu allowed domain, return true (link lain boleh disertakan)
+    return true;
   };
 
   /**
