@@ -79,23 +79,17 @@ export class Utility {
       return false;
     }
 
-    // Cek apakah ada minimal satu URL yang mengandung allowed domain
-    let foundAllowed = false;
-    urls.forEach((url) => {
-      Object.values(domain).forEach((dom) => {
+    // Return true jika ada minimal satu URL yang mengandung allowed domain
+    for (const url of urls) {
+      for (const dom of Object.values(domain)) {
         if (url.indexOf(dom) !== -1) {
-          foundAllowed = true;
+          return true;
         }
-      });
-    });
-
-    // Jika tidak ada allowed domain, return false
-    if (!foundAllowed) {
-      return false;
+      }
     }
 
-    // Jika ada minimal satu allowed domain, return true (link lain boleh disertakan)
-    return true;
+    // Jika tidak ada allowed domain, return false
+    return false;
   };
 
   /**
